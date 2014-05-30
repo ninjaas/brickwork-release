@@ -1,0 +1,17 @@
+{
+  "name": "brickwork",
+  "version": "1.0.0",
+  "authors": [
+    "Ray Ch <i@iraycd.com>"
+  ],
+  "description": "BrickWork is a reponsive jQuery plugin to create Dynamic layouts",
+  "main": "brickwork.min.js",
+  "keywords": [
+    "dynamic",
+    "layouts",
+    "draggable",
+    "resizable"
+  ],
+  "license": "MIT",
+  "homepage": "iraycd.com/brickwork/"
+}
